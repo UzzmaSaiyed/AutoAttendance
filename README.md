@@ -1,16 +1,14 @@
-# autoattend
+AutoAttendance:
 
-A new Flutter project.
+LiveLocation And Attendance
 
-## Getting Started
+A Flutter application that provides live location and attendance tracking.
+Overview
 
-This project is a starting point for a Flutter application.
+LiveLocationAndAttendance is a mobile application built using Flutter that enables users to track their live location and mark their attendance. This application is designed to be user-friendly and efficient, making it easy for individuals to manage their daily activities.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Live Location Tracking: Get real-time updates of your location on the map.
+Attendance Management: Mark your attendance with a single tap, and view your attendance history.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
